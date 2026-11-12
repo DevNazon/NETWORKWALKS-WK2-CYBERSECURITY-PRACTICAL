@@ -1,0 +1,7 @@
+Starting Nmap 7.993 ( https://nmap.org ) at 2026-11-11 15:10 +0300
+Nmap scan report for 192.168.43.26
+Host is up (0.011s latency).
+MAC Address: 3E:92:24:55:19:64 (Unknown)
+Nmap scan report for 192.168.43.150
+Host is up.
+Nmap done: 256 IP addresses (2 hosts up) scanned in 3.94 seconds

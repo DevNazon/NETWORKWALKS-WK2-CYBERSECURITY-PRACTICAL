@@ -1,0 +1,31 @@
+=== A RECORD ===
+Server:		192.168.43.133
+Address:	192.168.43.133#53
+
+Non-authoritative answer:
+Name:	networkwalks.com
+Address: 192.232.216.135
+
+=== NS RECORDS ===
+Server:		192.168.43.133
+Address:	192.168.43.133#53
+
+Non-authoritative answer:
+networkwalks.com	nameserver = ns6136.hostgator.com.
+networkwalks.com	nameserver = ns6135.hostgator.com.
+
+Authoritative answers can be found from:
+networkwalks.com	nameserver = ns6135.hostgator.com.
+networkwalks.com	nameserver = ns6136.hostgator.com.
+
+=== MX RECORDS ===
+Server:		192.168.43.133
+Address:	192.168.43.133#53
+
+Non-authoritative answer:
+networkwalks.com	mail exchanger = 0 mail.networkwalks.com.
+
+Authoritative answers can be found from:
+networkwalks.com	nameserver = ns6136.hostgator.com.
+networkwalks.com	nameserver = ns6135.hostgator.com.
+
